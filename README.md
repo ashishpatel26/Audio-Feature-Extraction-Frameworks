@@ -108,6 +108,37 @@ Installation : https://github.com/tlecomte/friture/blob/master/INSTALL.md
 
 Document : http://friture.org/features.html
 
+7. #### [tfr](https://github.com/bzamecnik/tfr)
+
+Spectral audio feature extraction using time-frequency reassignment
+
+![](https://github.com/bzamecnik/tfr/raw/master/examples/multicomponent_animation.gif)
+
+
+
+## Installation
+
+```
+pip install tfr
+```
+
+Or for development (all code changes will be available):
+
+```python
+git clone https://github.com/bzamecnik/tfr.git
+pip install -e tfr
+```
+
+Document Library: https://github.com/bzamecnik/tfr
+
+8. #### [sigfeat](https://github.com/SiggiGue/sigfeat)
+
+A Signal Feature Extraction framework for Python. Focused on audio signals.
+
+![](https://sigfeat.readthedocs.io/en/latest/_images/diagram.svg)
+
+Document Library: https://sigfeat.readthedocs.io/en/latest/
+
 ***Happy Learning...!!! if you like useful make star...!!!***
 
 ---
